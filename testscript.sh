@@ -2,5 +2,4 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This was added"
-echo "THIS WAS ADDED BY ME"
+echo "Nice test for WebHook with GitHub"
