@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('echo') {
       steps {
-        echo 'HEEELLLLOOOO FROM THE OTHER SIIIIIIIDE!   I must've called a thousand times'
+        echo "HEEELLLLOOOO FROM THE OTHER SIIIIIIIDE!   I must've called a thousand times"
       }
     }
 
