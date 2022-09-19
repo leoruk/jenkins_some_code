@@ -6,9 +6,7 @@ pipeline {
   stages {
     stage('echo') {
       steps {
-        echo 'HEEELLLLOOOO FROM THE OTHER SIIIIIIIDE!'
-	echo 'I must've called a thousand times'
-	echo 'De ce o facut asa multe build-uri?'
+        echo 'HEEELLLLOOOO FROM THE OTHER SIIIIIIIDE!   I must've called a thousand times'
       }
     }
 
